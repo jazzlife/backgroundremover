@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.663dfa1f.js";import{_ as a,k as r,v as t,m as s,p as o}from"./index.aae40a94.js";import"./render.52eb7b4d.js";const c={name:"Yearly"},n=o("p",null,"Yearly Page.",-1);function l(p,_,f,i,m,d){return r(),t(e,{class:"flex flex-center"},{default:s(()=>[n]),_:1})}var h=a(c,[["render",l]]);export{h as default};

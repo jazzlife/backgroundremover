@@ -1,0 +1,10 @@
+/* app global css */
+
+.q-toolbar-title {
+  background: #fff;
+}
+
+.item-title-font {
+  font-family: "NanumSquare";
+  font-weight: 600;
+}

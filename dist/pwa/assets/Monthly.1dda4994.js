@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.663dfa1f.js";import{_ as t,k as a,v as o,m as s,p as r}from"./index.aae40a94.js";import"./render.52eb7b4d.js";const n={name:"Monthly"},c=r("p",null,"Monthly Page.",-1);function l(p,_,f,i,m,d){return a(),o(e,{class:"flex flex-center"},{default:s(()=>[c]),_:1})}var $=t(n,[["render",l]]);export{$ as default};

@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.663dfa1f.js";import{_ as t,k as o,v as s,m as r,p as a}from"./index.aae40a94.js";import"./render.52eb7b4d.js";const n={name:"Daily"},c=a("span",null,"Daily Page.",-1),_=a("p",null,"Daily Page.",-1);function i(l,p,d,f,m,u){return o(),s(e,{style:{background:"#F5F5F5"}},{default:r(()=>[c,_]),_:1})}var k=t(n,[["render",i]]);export{k as default};

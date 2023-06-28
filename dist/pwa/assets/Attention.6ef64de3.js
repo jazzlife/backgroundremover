@@ -1,0 +1,1 @@
+import{Q as t}from"./QPage.663dfa1f.js";import{_ as e,k as a,v as o,m as n,p as s}from"./index.aae40a94.js";import"./render.52eb7b4d.js";const r={name:"Attention"},c=s("p",null,"Attention Page.",-1);function p(_,i,f,l,m,d){return a(),o(t,{class:"flex flex-center"},{default:n(()=>[c]),_:1})}var h=e(r,[["render",p]]);export{h as default};
